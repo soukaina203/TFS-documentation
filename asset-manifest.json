@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TFS-documentation/static/css/main.bdfefbfc.css",
+    "main.js": "/TFS-documentation/static/js/main.98293bfb.js",
+    "static/js/787.23be8dfc.chunk.js": "/TFS-documentation/static/js/787.23be8dfc.chunk.js",
+    "index.html": "/TFS-documentation/index.html",
+    "main.bdfefbfc.css.map": "/TFS-documentation/static/css/main.bdfefbfc.css.map",
+    "main.98293bfb.js.map": "/TFS-documentation/static/js/main.98293bfb.js.map",
+    "787.23be8dfc.chunk.js.map": "/TFS-documentation/static/js/787.23be8dfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdfefbfc.css",
+    "static/js/main.98293bfb.js"
+  ]
+}
